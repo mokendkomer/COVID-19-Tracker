@@ -1,2 +1,2 @@
-# Covid-19-Tracker
-A single page webapp to view Corona stats using the NovelCovid API.
+# COVID-19-Tracker
+A single page webapp to view COVID-19 stats using the NovelCovid API.
